@@ -11,7 +11,7 @@ public class AzureController {
 	
 	@GetMapping("/azure")
 	public String message() {
-		return "First Welcome to Springboot Azure Deployment";
+		return "=========WELCOME TO SPRINGBOOT DEPLOYMENT IN AZURE========";
 	}
 
 }
